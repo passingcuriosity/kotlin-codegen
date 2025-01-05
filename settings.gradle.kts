@@ -9,4 +9,6 @@ include(
     "app",
     "list",
     "utilities",
+    "lib:annotations",
+    "lib:annotation-processor",
 )
