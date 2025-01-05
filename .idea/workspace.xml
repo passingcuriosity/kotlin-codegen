@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61012297-7a56-4648-8e7b-15f8c0086f66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lib/annotations/codegen.lib.annotations.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/lib/annotations/codegen.lib.annotations.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotation-processor/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotation-processor/src/main/kotlin/com/passingcuriosity/codegen/processor/ContextSymbolProcessor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotation-processor/src/main/kotlin/com/passingcuriosity/codegen/processor/ContextSymbolProcessorProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotation-processor/src/main/resources/META-INF/services/com.google.devtools.ksp.processing.SymbolProcessorProvider" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotations/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotations/src/main/kotlin/com/passingcuriosity/codedev/annotations/Context.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotations/src/main/kotlin/com/passingcuriosity/codedev/annotations/Description.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/annotations/src/main/kotlin/com/passingcuriosity/codedev/annotations/Ignore.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/buildlogic.kotlin-application-conventions.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/buildlogic.kotlin-application-conventions.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/buildlogic.kotlin-common-conventions.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/buildlogic.kotlin-common-conventions.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/buildlogic.kotlin-library-conventions.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/src/main/kotlin/buildlogic.kotlin-library-conventions.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
